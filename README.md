@@ -1,6 +1,7 @@
 # evan-martinez.github.io
 #Website <br>
-This is a github website. I have edited the readme text to display this writing. The theme is Merlot, which i changed in the settings. <br> <br>
+This is a github website. I have edited the readme text to display this writing.  
+<br> <br>
 
 Here is an example of a `list`: <br>
 
@@ -16,5 +17,6 @@ Here is an example of a `list`: <br>
 <br> <br>
 
 [This is a link to youtube](youtube.com) <br><br>
+
 
 
