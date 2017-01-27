@@ -10,7 +10,7 @@ Here is an example of a `list`: <br>
   3. here is a **sub**-list <br> <br>
   
 | This          | is a          | table |
-| ------------- |:-------------:| -----|
+| ------------- |:-------------:| ------------- |
 | INLS          | 161 | A+ |
 |  Coding     | is      |   cool |
 |  Go | tar    |    heels | 
