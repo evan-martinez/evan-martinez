@@ -9,11 +9,11 @@ Here is an example of a `list`: <br>
 2. This is the *second* item
   3. here is a **sub**-list <br> <br>
   
-| This          | is a          | table |
-| ------------- |:-------------:| ------------- |
-| INLS          | 161 | A+ |
-|  Coding     | is      |   cool |
-|  Go | tar    |    heels | 
+This| is a | table 
+--- |:---:| --- 
+ INLS | 161 | A+ 
+  Coding | is |   cool 
+  Go | tar |    heels 
 <br> <br>
 
 [This is a link to youtube](youtube.com) <br><br>
