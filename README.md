@@ -6,7 +6,7 @@ Here is an example of a `list`:
 
 1. This is the *first* item
 2. This is the *second* item
- 1. here is a **sub**-list
+ i. here is a **sub**-list
   
 This| is a | table 
    --- |:---:| --- 
