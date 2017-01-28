@@ -1,12 +1,13 @@
-# evan-martinez.github.io
-# Website Header
+# evan-martinez.github.io <!-- heading 1 tag -->
+
+## Website Header  <!-- heading 2 tag -->
+
 This is a github website. I have edited the readme text to display this writing.  
 
 Here is an example of a `list`:
 
 1. This is the *first* item
 2. This is the *second* item
- i. here is a **sub**-list
   
 This| is a | table 
    --- |:---:| --- 
@@ -16,7 +17,7 @@ Go     | tar | heels
 
 <br><br>
 
-[This is a link to youtube](youtube.com)
+[This is a link to youtube](http://youtube.com)
 
 
 
